@@ -1,3 +1,3 @@
-[submodule "protobuf_catkin"]
+[submodule "3rdparty/protobuf_catkin"]
 	path = 3rdparty/protobuf_catkin
 	url = https://github.com/AaronZhouYu/protobuf_catkin.git
